@@ -17,7 +17,7 @@ function App() {
           <tr>
             <td>my-react-app</td>
             <td>
-              <a href="https://github.com/bhavya51/Task3_my_react_app">Link 1</a>
+              <a href="https://github.com/ajit250103/Task3_my_react_app">Link 1</a>
             </td>
             <td>
               <a href="https://task3-my-react-app.vercel.app/">Link 1</a>
